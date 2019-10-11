@@ -23,6 +23,7 @@ public class triangle {
 		System.out.println("It is not a trangle!");
 
     }
+	// TEST
 
 
 }
