@@ -1,2 +1,4 @@
-# game1
-# This is a test
+Game1
+I am the captain now
+-Cade
+
