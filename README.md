@@ -1,4 +1,3 @@
-Game1
-I am the captain now
--Cade
+# FBLA Game
+Coded by Ryan and Cade
 
