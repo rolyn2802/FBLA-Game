@@ -148,5 +148,5 @@ public class Game extends Canvas implements Runnable{
 		}
 			System.exit(1);
 	}
-	
+	//test
 }
